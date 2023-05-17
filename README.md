@@ -1,1 +1,11 @@
-NAME:PROMPT:DESCRIPTION:EXAMPLE
+NAME:PROMPT:DESCRIPTION:examples/app-configmap.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-cronjob.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-job.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-livenessProbe.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-multicontainer.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-readinessProbe.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-resources.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-secret-env.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-secret.yaml
+NAME:PROMPT:DESCRIPTION:examples/app-volumeMounts.yaml
+NAME:PROMPT:DESCRIPTION:examples/app.yaml
